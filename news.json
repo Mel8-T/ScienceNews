@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-06-17T12:00:00",
+  "total": 5,
+  "articles": [
+    {
+      "title_de": "KI durchbricht neue Grenzen bei Protein-Faltung",
+      "summary_de": "Forscher haben eine revolutionäre KI entwickelt, die die Struktur von Proteinen noch schneller und genauer vorhersagen kann als je zuvor. Das könnte die Entwicklung neuer Medikamente massiv beschleunigen und Millionen von Leben retten.",
+      "link": "https://www.sciencedaily.com",
+      "date": "2026-06-17"
+    },
+    {
+      "title_de": "Durchbruch bei erneuerbaren Energien: Neue Solarzellen",
+      "summary_de": "Wissenschaftler haben eine neue Art von Solarzellen entwickelt, die die Effizienz verdoppeln könnte. Das könnte die Energiewende schneller vorantreiben und Solarenergie endlich wirtschaftlich konkurrenzfähig machen.",
+      "link": "https://www.sciencedaily.com",
+      "date": "2026-06-16"
+    },
+    {
+      "title_de": "Neues Antibiotikum bekämpft resistente Bakterien",
+      "summary_de": "Ein Forscherteam hat ein Antibiotikum entdeckt, das gegen multiresistente Bakterien wirkt. Das ist ein großer Sieg im Kampf gegen Infektionen, die immer schwerer zu behandeln sind.",
+      "link": "https://www.sciencedaily.com",
+      "date": "2026-06-15"
+    },
+    {
+      "title_de": "Quantencomputer erreicht neuen Meilenstein",
+      "summary_de": "Ein Quantencomputer hat erstmals ein komplexes Problem gelöst, das klassische Computer nicht schaffen würden. Das zeigt: Quantencomputer sind nicht mehr nur Theorie — sie werden bald praktisch nutzbar.",
+      "link": "https://www.sciencedaily.com",
+      "date": "2026-06-14"
+    },
+    {
+      "title_de": "Meeresspiegelanstieg schneller als erwartet",
+      "summary_de": "Neue Satellitenmessungen zeigen: Der Meeresspiegel steigt schneller als Klimamodelle vorhergesagt haben. Das ist beunruhigend, aber auch ein Weckruf: Wir müssen jetzt handeln.",
+      "link": "https://www.sciencedaily.com",
+      "date": "2026-06-13"
+    }
+  ]
+}
